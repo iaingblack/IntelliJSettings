@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateRegexTesterToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
